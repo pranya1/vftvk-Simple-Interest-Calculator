@@ -10,3 +10,18 @@ h1{color:grey;font-family:verdana;}
     margin-right: auto;
 }
 
+#principal{
+    height: 25px;
+    width: 190px;
+}
+
+#years{
+    height: 35px;
+    width: 200px;
+}
+.highlight
+{
+    background-color: #ffff00;
+}
+
+
